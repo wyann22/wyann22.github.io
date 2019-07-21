@@ -3,7 +3,7 @@ description: some interesting stuffs i want to write down.
 author: Wyann
 github: https://github.com/wyann22
 about: Security, OS
-disqus_shortname: stackproblems
+disqus_shortname: <-+_+->
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -40,7 +40,7 @@ urls:
 url: "https://wyann22.github.io"
 baseurl: ""
 paginate: 20
-per_page: 12
+per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
 gems:
